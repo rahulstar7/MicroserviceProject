@@ -13,4 +13,8 @@ public class EurekaServerApplication {
 		System.out.println("Eureka server is running ....");
 	}
 
+@Bean
+public void test()
+{
+}
 }
