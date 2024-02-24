@@ -34,4 +34,8 @@ public void dev()
 }
 
 
+@Bean
+public void test()
+{
+}
 }
