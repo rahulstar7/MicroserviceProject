@@ -12,5 +12,11 @@ public class EurekaServerApplication {
 		SpringApplication.run(EurekaServerApplication.class, args);
 		System.out.println("Eureka server is running ....");
 	}
+public void dev()
+{
+
+
+}
+
 
 }
